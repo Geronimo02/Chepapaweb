@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Popup Example</title>
+    <script>
+        function openPopup() {
+            var width = 200;
+            var height = 200;
+            var left = window.innerWidth - width;
+            var top = 0;
+
+            var popupOptions = [
+                'width=' + width,
+                'height=' + height,
+                'left=' + left,
+                'top=' + top,
+                'location=no',
+                'toolbar=no',
+                'status=no',
+                'menubar=no',
+                'scrollbars=no',
+                'resizable=no'
+            ];
+
+            var popupURL = 'http://ipanel.instream.audio:8002/stream'; 
+
+            window.open(popupURL, '_blank', popupOptions.join(','));
+        }
+        openPopup();
+    </script>
+</head>
+<body>  
+</body>
+</html>

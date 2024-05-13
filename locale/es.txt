@@ -1,0 +1,239 @@
+#: locale=es
+
+## Acción
+
+### URL
+LinkBehaviour_5BF6C1AF_3AF4_0C31_41BE_63870BAD7DF9.source = https://celibrand.com.ar
+LinkBehaviour_5904E669_3AFC_1431_41B9_04ED126F9399.source = https://celibrand.com.ar
+WebFrame_C03B9AAB_DBB5_7243_41D0_E9A7DEFEF572.url = https://ipanel.instream.audio:7000/stream?inovanex=phoneapp
+WebFrame_C03B9AAB_DBB5_7243_41D0_E9A7DEFEF572_mobile.url = https://ipanel.instream.audio:7000/stream?inovanex=phoneapp
+LinkBehaviour_351F62F2_3AB0_DB59_41CA_8EB369CDD70C.source = https://lacasona.alacarta.online/
+LinkBehaviour_3463D012_3AB0_D6D9_41C0_0323869B1BE4.source = https://lacasona.alacarta.online/
+WebFrame_DDA4DA03_CA24_9492_41DC_518640CF436E_mobile.url = https://lacasona.alacarta.online/
+LinkBehaviour_353B1C16_3AB1_6ED9_41CD_50BB6EA8AE14.source = https://lacasona.alacarta.online/
+LinkBehaviour_34511B97_3AB1_69C7_41C7_7104951F8A36.source = https://lacasona.alacarta.online/
+WebFrame_DDA4DA03_CA24_9492_41DC_518640CF436E.url = https://lacasona.alacarta.online/
+LinkBehaviour_F8547F1A_DAF7_524D_41D3_FF78A14DC973.source = https://wa.link/j2tpf3
+LinkBehaviour_F8BD531E_DAF4_D245_41A9_60066DC3BA6E.source = https://wa.link/j2tpf3
+WebFrame_DEC4424A_CA23_7492_41D8_CF614E96DE29_mobile.url = https://www.clubt.com.ar/#/carta/celibrand
+WebFrame_DE5663EA_CA3C_BB9D_41E4_34DE4E9C3A23.url = https://www.clubt.com.ar/#/carta/celibrand
+LinkBehaviour_CC0040CD_DB4B_2FC4_41E5_7F6ACE889D61.source = https://www.facebook.com/ChePapaTandil
+LinkBehaviour_4F158BC0_5B21_DE24_41B3_A88275E09653.source = https://www.facebook.com/ChePapaTandil
+LinkBehaviour_C2C0AF8E_DBD7_D244_41E2_ED5394DB5249.source = https://www.facebook.com/ChePapaTandil
+WebFrame_5589A971_5B21_DAE7_41BE_D45D2E22D397.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3171.866679843764!2d-59.13703438469473!3d-37.34566487983975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95911fde18a179cd%3A0x34148943e68ae4b9!2sLa%20Casona%20de%20CHEpap%C3%A1%20Corsi!5e0!3m2!1ses!2sar!4v1689451267730!5m2!1ses!2sar
+WebFrame_5589A971_5B21_DAE7_41BE_D45D2E22D397_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3171.866679843764!2d-59.13703438469473!3d-37.34566487983975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95911fde18a179cd%3A0x34148943e68ae4b9!2sLa%20Casona%20de%20CHEpap%C3%A1%20Corsi!5e0!3m2!1ses!2sar!4v1689451267730!5m2!1ses!2sar
+LinkBehaviour_C2C1DF8F_DBD7_D244_41E1_526AAAD90EB6.source = https://www.instagram.com/chepapa.tandil/
+LinkBehaviour_CCE48A66_DB4D_52C4_41EA_9BE6F66E0473.source = https://www.instagram.com/chepapa.tandil/
+LinkBehaviour_FA46866A_DACB_D2CC_41E2_C3B0EF3BEAE2.source = https://www.instagram.com/espacios.360/
+LinkBehaviour_FAABBCC7_DACB_77C4_41D2_8F615AECE345.source = https://www.instagram.com/espacios.360/
+
+## Media
+
+### Audio
+audiores_90E71E24_8DA3_791E_41D5_7749EBC5A3E3.mp3Url = media/audio_91E6FACF_8DA6_D92B_41DF_8848DDFB74AA_es.mp3
+
+### Subtítulos de Video
+
+### Título
+photo_9C842B6F_207C_192D_41BF_1F483E8AFE0B.label = 1
+photo_9C842B6F_207C_192D_41BF_1F483E8AFE0B.label = 1
+photo_91841771_20A4_0935_419B_1C35F936093B.label = 12-11-2
+photo_91841771_20A4_0935_419B_1C35F936093B.label = 12-11-2
+photo_94D9018C_207C_09D3_41B9_7DDB2E88E3D9.label = 2
+photo_94D9018C_207C_09D3_41B9_7DDB2E88E3D9.label = 2
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_0.label = 20160225-130333-largejpg
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_0.label = 2020-03-12-18-22-05-012
+album_CA446115_DADF_6E44_41E7_314F18ADB484_7.label = 2023-03-05
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_3.label = 2023-03-05
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_2.label = 2023-03-05 (1)
+album_CA446115_DADF_6E44_41E7_314F18ADB484_6.label = 2023-03-05 (1)
+album_CA446115_DADF_6E44_41E7_314F18ADB484_0.label = 5H2A7509 copy
+album_CA446115_DADF_6E44_41E7_314F18ADB484_1.label = 5H2A7561
+album_CA446115_DADF_6E44_41E7_314F18ADB484_2.label = 5H2A7575
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_0.label = 5H2A7583
+album_CA446115_DADF_6E44_41E7_314F18ADB484_3.label = 5H2A7611-1
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_1.label = 5H2A7625
+album_CA446115_DADF_6E44_41E7_314F18ADB484_5.label = 5H2A8094_HDR
+album_CA446115_DADF_6E44_41E7_314F18ADB484.label = Album General Mobile
+panorama_2393F695_1386_169C_41A3_578708A4B8E8.label = Balcon-medio
+panorama_21C1546A_139A_69B7_41A1_B8FF386953D2.label = Balcón01
+panorama_21D7DB50_1386_1F94_4175_C255CB479DE2.label = Balcón02
+panorama_262E3DE6_138A_1ABC_41A7_B294F8A520CD.label = CasaFrente
+panorama_E65F1BB8_EB5C_9D7C_41E8_69AB6A51660E.label = ComedorDer01
+panorama_E65F36FF_EB5C_F4F4_41DC_438B7C8F2EE7.label = ComedorDer02
+panorama_E65EC449_EB5C_EB1C_41E8_54F215DC24BC.label = ComedorDer03
+panorama_E65E23F8_EB5C_ACFC_41DC_B539B802A7D5.label = ComedorDer04
+panorama_E65FC0B7_EB5C_AB74_41E8_B03E8225FFD8.label = ComedorDer05
+panorama_E65EC60C_EB5F_9715_41EA_34F35BDD78C3.label = ComedorSup01
+panorama_E65BC397_EB5C_6D34_41EB_5317BBA5B378.label = ComedorSup02
+panorama_E65B1EA2_EB5D_970C_41C3_11A0DD5084E0.label = Dique001
+panorama_E6585A0D_EB5D_FF14_41E2_1F8D40A8197D.label = Dique002
+panorama_3EEBF2E0_1286_2EB4_41A0_89F860B07C04.label = EntradaCentro
+panorama_392817F0_1286_7694_41B0_1AAE83103A3B.label = EntradaDer
+panorama_3894BD90_1379_FA94_41B1_785BB101B509.label = EntradaDerDer
+panorama_3FCE4EF5_1287_F69C_41A1_D898A38CD5CC.label = EntradaIZquierda
+panorama_E65F3F27_EB5F_9514_41C4_590FD879B15C.label = Escalera
+panorama_E65EAA7B_EB5F_BFFC_41EC_6488ED789314.label = Escalera2
+panorama_3F367276_1289_E99C_4192_A87E06465956.label = Ext-Frente1
+panorama_3EFADD57_128E_1B9C_4190_79633E4ACCD1.label = Ext-Frente1_1
+panorama_3ED4DCBF_128E_7A8C_41AA_50AB3979C435.label = Ext-Frente2
+panorama_3EB505DE_128E_2A8C_4180_396AE5DFF3D9.label = Ext-Frente3
+panorama_3E942231_128E_E995_4198_742389DB950A.label = Ext-Frente4
+panorama_09453134_12BE_2B9C_41A9_66187A195ECE.label = Ext0-Inflable
+panorama_05811426_12BE_69BC_41AE_B6BAE7C24CA2.label = Ext1
+panorama_05BD2B70_12BE_1F94_41B0_C5CCFF6F16F0.label = Ext2
+panorama_05821323_12BE_2FB4_41B1_7A961418E92D.label = Ext3(FoodTrack)
+panorama_05BC1B9D_12BF_FE8C_41AA_AD5CC07274CA.label = Ext4
+panorama_05BD8277_12BE_299C_41B1_1EB04915A7AF.label = Ext5
+panorama_05839961_12BE_1BB4_41A1_EF3135063DF5.label = Ext6
+panorama_05BE8BFF_12BE_7E8C_41A8_862816273B86.label = Ext7(Celibrand)
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_6.label = IMG-20210623-WA0038
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_7.label = IMG-20210623-WA0045
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_7.label = IMG-20221001-WA0083
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_6.label = IMG-20221016-WA0023_2
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_1.label = IMG_20200311_193237992_HDR-EFFECTS
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_2.label = IMG_20200518_171615868_HDR
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_4.label = IMG_20220119_120159
+photo_AD91848A_8DE1_492A_41DF_86D1282344CE.label = IMG_20220930_145217908
+photo_AD91848A_8DE1_492A_41DF_86D1282344CE.label = IMG_20220930_145217908
+album_CA446115_DADF_6E44_41E7_314F18ADB484_8.label = IMG_20230122_212006415
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481_5.label = IMG_20230208_213714450
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_0.label = IMG_20230317_100743599
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_1.label = IMG_20230323_141819055
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_4.label = IMG_20230323_141819055
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA_5.label = IMG_20230323_142339677_MF_PORTRAIT
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_2.label = IMG_20230323_142339677_MF_PORTRAIT
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_3.label = IMG_20230401_134500271
+photo_9F29EA94_8DA2_D93D_41D2_340B2E5242A2.label = IMG_20230408_191646269_MF_PORTRAIT
+photo_9F29EA94_8DA2_D93D_41D2_340B2E5242A2.label = IMG_20230408_191646269_MF_PORTRAIT
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_4.label = IMG_20230408_191657386_MF_PORTRAIT
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_5.label = IMG_20230502_133354833
+panorama_E65F9C51_EB5C_9B0F_41DF_BBA93FDC51DD.label = Mostrador01
+panorama_E65EF936_EB5C_7D74_41D0_F7CFD69A6AC7.label = Mostrador02
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_4.label = Murallon
+panorama_053423DB_12BA_2E94_419D_F750DE2841D6.label = NuevaPortada
+panorama_C90DAF26_C57F_6E92_41B1_B787D8F0F1D6.label = NuevoSalon01
+panorama_C90D99C1_C57F_558F_41D8_6BB40BC243F6.label = NuevoSalon011
+panorama_C90D357A_C57F_3D72_41E5_A76A645083EC.label = NuevoSalon02
+panorama_C90C3100_C57E_D28E_41CC_3CF37E07505C.label = NuevoSalon03
+panorama_C90CD67C_C57E_DF76_41C2_4A9184B4B75C.label = NuevoSalon04
+panorama_C90CC48D_C57D_3396_41E7_485C07E4D9A7.label = NuevoSalon05
+panorama_267914FE_1386_EA8F_41A2_7E4FE43C6F98.label = NuevoSup1
+panorama_22D326A2_138E_36B4_41A3_861728BF1418.label = NuevoSup2
+panorama_2B28F010_138E_2994_4195_991398AAF058.label = NuevoSup3
+panorama_20F33CB0_138A_1A94_4186_B0B99F1F674B.label = NuevoSup4
+panorama_E65AFF83_EB5C_7513_416B_7CAE1786AD51.label = R0011146
+panorama_3EE89474_128E_299C_41A8_DFC2C67F2F6A.label = R0011698
+panorama_E65EC408_EB5F_AB1C_41E5_71AD69A30E9D.label = SalonDer
+panorama_E65E08BC_EB5F_FB74_41E7_9436277EE4AE.label = SalonIzq
+panorama_E65EDCE3_EB5F_9B0C_41C5_575598FE9120.label = SalonMedio
+video_599B0585_C58B_7D96_41C5_D9B5FC48B090.label = VID_20210403_204300
+video_D87E1C02_C595_7292_41E4_9116D42A008C.label = VID_20221010_135639818
+video_595C6907_C595_5292_41C9_599EEDC4D169.label = VID_20221115_224329974
+photo_9076CC41_20A4_3F55_41B7_B5328615322A.label = atardecer
+photo_9076CC41_20A4_3F55_41B7_B5328615322A.label = atardecer
+photo_9041FFF8_20A4_3933_41B9_A58546BA9C4F.label = caption
+photo_9041FFF8_20A4_3933_41B9_A58546BA9C4F.label = caption
+photo_E4D4890A_2064_06D7_41B5_A8221F004D8D.label = don-quijote
+photo_E4D4890A_2064_06D7_41B5_A8221F004D8D.label = don-quijote
+photo_905443F6_20A4_093F_41AF_4E8B4D66CF27.label = geiser
+photo_905443F6_20A4_093F_41AF_4E8B4D66CF27.label = geiser
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_1.label = img-20180129-wa0005-largejpg
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_2.label = lago-y-dique-del-fuerte (1)
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_3.label = lago-y-dique-del-fuerte (6)
+photo_E35BEE18_2064_1AF3_41BF_6D7EC89D21E2.label = lago_mobile
+photo_E35BEE18_2064_1AF3_41BF_6D7EC89D21E2.label = lago_mobile
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_9.label = mobile_03
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635_8.label = mobile_1
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_5.label = photo1jpg
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_6.label = photo4jpg
+album_CA446115_DADF_6E44_41E7_314F18ADB484_10.label = portada_mobile
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_7.label = surgente
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_8.label = tandil-verde
+photo_E34715B3_2064_0935_41B2_11801F084E98.label = tandil_mobile
+photo_E34715B3_2064_0935_41B2_11801F084E98.label = tandil_mobile
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A_9.label = veleros-acercandose-al
+album_811E1713_8DA1_373B_41B4_A213B44CA6BA.label = Álbum Foodtruck Desktop
+album_839CD020_8DA1_4915_41D7_4FF1B66E9635.label = Álbum Foodtruck Mobile
+album_CF9C10C4_DACD_2FC4_41D7_D8AFD66E7481.label = Álbum General Desktop
+album_95B2A378_20A4_0933_41B5_346AB7F3A54A.label = Álbum Turismo Desktop
+album_16720B82_20E4_39D7_41B5_E1057F4AA210.label = Álbum Turismo Mobile
+
+### Video
+videolevel_ED9B4AB6_E252_2365_41B6_1720340D05A5.url = media/video_595C6907_C595_5292_41C9_599EEDC4D169_es.mp4
+videolevel_ED9B4AB6_E252_2365_41B6_1720340D05A5.posterURL = media/video_595C6907_C595_5292_41C9_599EEDC4D169_poster_es.jpg
+videolevel_ED9B8A6C_E252_23E5_41EA_ED52EA261FEC.url = media/video_599B0585_C58B_7D96_41C5_D9B5FC48B090_es.mp4
+videolevel_ED9B8A6C_E252_23E5_41EA_ED52EA261FEC.posterURL = media/video_599B0585_C58B_7D96_41C5_D9B5FC48B090_poster_es.jpg
+videolevel_ED9AEA0B_E252_232C_41A9_1C01924F8BF8.url = media/video_D87E1C02_C595_7292_41E4_9116D42A008C_es.mp4
+videolevel_ED9AEA0B_E252_232C_41A9_1C01924F8BF8.posterURL = media/video_D87E1C02_C595_7292_41E4_9116D42A008C_poster_es.jpg
+
+## Skin
+
+### Botón
+Button_CEDA6600_D814_B840_41EA_FBFDAD76F840.label = CELIBRAND
+Button_CEDA4600_D814_B840_41BC_FC74660C3FFC.label = CHEpapa RADIO
+Button_CC416E68_D81C_A8C0_41BE_D7BB141AF39F.label = Contacto
+Button_CED9B600_D814_B840_41E9_4BFBE5BF1558.label = FOTOS
+Button_CC417E68_D81C_A8C0_41D2_33AC88BA7F6F.label = Fotos
+Button_CC41BE68_D81C_A8C0_41D7_5DE6C4E35BDA.label = La Casona
+Button_CC419E68_D81C_A8C0_4178_14CCEF8893A4.label = Ubicación
+Button_55885972_5B21_DAE5_41B3_F0F0E460681C.label = lorem ipsum
+Button_55885972_5B21_DAE5_41B3_F0F0E460681C_mobile.label = lorem ipsum
+
+### Etiqueta
+Label_F93E2361_DADD_72FF_41E3_52EB0E1FB384.text = CERRAR
+Label_F9468C94_DADD_5644_41E6_AD3EE55C0EFC.text = CERRAR
+Label_D18D1173_CE2C_9772_41DF_FAEFF2487D29.text = Cerrar
+Label_D20514B1_CE5C_FD8E_41E0_314D3BC05B40_mobile.text = HACÉ TU PEDIDO
+Label_D20514B1_CE5C_FD8E_41E0_314D3BC05B40.text = PEDIDOS A LA CARTA
+Label_C13EF31A_DBCB_F24C_41E9_1CEF6154F9CB.text = VOLVER
+Label_C7A7D96C_DB75_7EC4_41D5_F32ED98638F4.text = VOLVER
+Label_D1FB3920_CE3F_B48D_41E1_F14A1186AC68.text = VOLVER
+
+### Imágen
+Image_153E86BB_1A14_1411_419A_65F11788C5FD.url = skin/Image_153E86BB_1A14_1411_419A_65F11788C5FD_es.png
+Image_153E86BB_1A14_1411_419A_65F11788C5FD_mobile.url = skin/Image_153E86BB_1A14_1411_419A_65F11788C5FD_mobile_es.png
+Image_15B2D850_1A14_3C10_41A8_11C84EAF2032.url = skin/Image_15B2D850_1A14_3C10_41A8_11C84EAF2032_es.png
+Image_15B2D850_1A14_3C10_41A8_11C84EAF2032_mobile.url = skin/Image_15B2D850_1A14_3C10_41A8_11C84EAF2032_mobile_es.png
+Image_4D27FEBD_5B21_565F_41AB_E442B188C164.url = skin/Image_4D27FEBD_5B21_565F_41AB_E442B188C164_es.png
+Image_4F162BBE_5B21_DE5C_41BF_463204040815_mobile.url = skin/Image_4F162BBE_5B21_DE5C_41BF_463204040815_mobile_es.png
+Image_4F86A743_5B2F_3624_41D2_75B1A3834A17.url = skin/Image_4F86A743_5B2F_3624_41D2_75B1A3834A17_es.png
+Image_C0A55302_DBBB_323C_41E0_08EDCAE04DC4.url = skin/Image_C0A55302_DBBB_323C_41E0_08EDCAE04DC4_es.png
+Image_C0A55302_DBBB_323C_41E0_08EDCAE04DC4_mobile.url = skin/Image_C0A55302_DBBB_323C_41E0_08EDCAE04DC4_mobile_es.png
+Image_CC01F770_DAF5_F2DD_41C5_977D1D113EE4.url = skin/Image_CC01F770_DAF5_F2DD_41C5_977D1D113EE4_es.png
+Image_CC01F770_DAF5_F2DD_41C5_977D1D113EE4_mobile.url = skin/Image_CC01F770_DAF5_F2DD_41C5_977D1D113EE4_mobile_es.png
+Image_CC4E0E68_D81C_A8C0_41D5_FB5945FDCB2A.url = skin/Image_CC4E0E68_D81C_A8C0_41D5_FB5945FDCB2A_es.png
+Image_CCD6076A_DAF5_32CC_41DC_9BD355A99B95.url = skin/Image_CCD6076A_DAF5_32CC_41DC_9BD355A99B95_es.png
+Image_CCD6076A_DAF5_32CC_41DC_9BD355A99B95_mobile.url = skin/Image_CCD6076A_DAF5_32CC_41DC_9BD355A99B95_mobile_es.png
+Image_CEDA1600_D814_B840_41C6_29A84E9536BC.url = skin/Image_CEDA1600_D814_B840_41C6_29A84E9536BC_es.png
+Image_D2020136_CE64_94F2_41CB_FC764F1D6CE3.url = skin/Image_D2020136_CE64_94F2_41CB_FC764F1D6CE3_es.png
+Image_D2020136_CE64_94F2_41CB_FC764F1D6CE3_mobile.url = skin/Image_D2020136_CE64_94F2_41CB_FC764F1D6CE3_mobile_es.png
+Image_D2617F0B_CE65_AC92_41DE_2C56125E85EE.url = skin/Image_D2617F0B_CE65_AC92_41DE_2C56125E85EE_es.jpg
+Image_D2617F0B_CE65_AC92_41DE_2C56125E85EE_mobile.url = skin/Image_D2617F0B_CE65_AC92_41DE_2C56125E85EE_mobile_es.jpg
+Image_D43107CC_DACF_D1C4_41D8_3BC550314A2A.url = skin/Image_D43107CC_DACF_D1C4_41D8_3BC550314A2A_es.png
+Image_D43107CC_DACF_D1C4_41D8_3BC550314A2A_mobile.url = skin/Image_D43107CC_DACF_D1C4_41D8_3BC550314A2A_mobile_es.png
+Image_D7B783A2_CE24_9B92_41E1_3AF7DB101F27.url = skin/Image_D7B783A2_CE24_9B92_41E1_3AF7DB101F27_es.png
+Image_E124F1CA_CA2C_F79D_41CA_64DC62FEFB42.url = skin/Image_E124F1CA_CA2C_F79D_41CA_64DC62FEFB42_es.png
+Image_E4B2846E_CA24_9C92_41D2_7E4F63E95689.url = skin/Image_E4B2846E_CA24_9C92_41D2_7E4F63E95689_es.png
+Image_E73D12C0_CA27_B58F_41E5_A212EC5061CC.url = skin/Image_E73D12C0_CA27_B58F_41E5_A212EC5061CC_es.png
+Image_E743933C_CA2C_94F6_41DE_DC003E29D4AD.url = skin/Image_E743933C_CA2C_94F6_41DE_DC003E29D4AD_es.png
+Image_E78CCB5C_CA6C_B4B5_41E4_744E9D661F1F.url = skin/Image_E78CCB5C_CA6C_B4B5_41E4_744E9D661F1F_es.gif
+Image_E7E2A682_CBED_7D92_41D4_E0A8500BB7AE.url = skin/Image_E7E2A682_CBED_7D92_41D4_E0A8500BB7AE_es.png
+Image_E7F162B5_CA6F_75F6_4109_03D551853EE0.url = skin/Image_E7F162B5_CA6F_75F6_4109_03D551853EE0_es.gif
+Image_F8B0FFF0_DD4D_31DC_41DD_889A3C9E5726.url = skin/Image_F8B0FFF0_DD4D_31DC_41DD_889A3C9E5726_es.png
+Image_F8BB6601_DACD_523C_41E1_3667FF340136.url = skin/Image_F8BB6601_DACD_523C_41E1_3667FF340136_es.png
+Image_F8E29976_DD4D_7EC5_41B6_D18869BDFE2A.url = skin/Image_F8E29976_DD4D_7EC5_41B6_D18869BDFE2A_es.png
+Image_F8EDC333_DACB_725C_41D4_519FD869FCD9.url = skin/Image_F8EDC333_DACB_725C_41D4_519FD869FCD9_es.png
+Image_FA0661A1_DAB4_EE7C_41BD_10F4CBD01694.url = skin/Image_FA0661A1_DAB4_EE7C_41BD_10F4CBD01694_es.png
+Image_FA0661A1_DAB4_EE7C_41BD_10F4CBD01694_mobile.url = skin/Image_FA0661A1_DAB4_EE7C_41BD_10F4CBD01694_mobile_es.png
+
+### Texto Multilínea
+HTMLText_55886972_5B21_DAE5_41CA_C448298AC592.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.479999999999992vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:8.48vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.959999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.96vh;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6144578313253017vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:3.61vh;font-family:'Bebas Neue Bold';">dr Saavedra Lamas 777</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.41vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.4096385542168672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.41vh;font-family:'Bebas Neue Bold';">LA CASONA frente al LAGO.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.4096385542168672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.41vh;font-family:'Bebas Neue Bold';">ENVÍOS BONIFICADOS !</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.4096385542168672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.41vh;font-family:'Bebas Neue Bold';">COMIDAS Y QUITAPENAS</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.4096385542168672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.41vh;font-family:'Bebas Neue Bold';">ABIERTO DE CORRIDO</SPAN></SPAN></DIV></div>
+HTMLText_55886972_5B21_DAE5_41CA_C448298AC592_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.479999999999992vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:8.48vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.959999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.96vh;font-family:'Bebas Neue Bold';">Ubicación</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.07vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.019999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc0000;font-size:4.02vh;font-family:'Bebas Neue Bold';">Dr. Saavedra Lamas 777</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.019999999999997vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc0000;font-size:4.02vh;font-family:'Bebas Neue Bold';">Tandil</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = La CASONA de CHEpapá
